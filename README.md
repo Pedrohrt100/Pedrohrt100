@@ -1,5 +1,5 @@
 <h1 align="center">Oi, Eu sou Pedro Henrique Ribeiro Teixeira</h1>
-<h3 align="center">Sou apaixonado por ciência de dados</h3>
+<h3 align="center">Eu estou estudando ciência de dados/Analise de Dados</h3>
 
 - 🌱 Atualmente estou aprendendo **Python e Machine Learning**
 
